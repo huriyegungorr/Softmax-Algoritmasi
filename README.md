@@ -9,7 +9,7 @@ Projede softmax algoritmasından yararlanılarak kriterlerin normalizasyonu sağ
 
 Proje Adımları:  
 
-Verilerin Oluşturulması: Bilinen veriler doğru bir şekilde bazıları tahmine dayalı olarak kriterlere değerler atanmıştır.  
+Verilerin Oluşturulması: Sentetik değerler verilerek veriler oluşturulmuştur.  
 Verilerin Normalizasyonu: Veriler softmax ile normalize edilmiş olup veriler arasındaki farklı birimlerin yarattığı dengesizlikler ortadan kaldırıldı.  
 Skorların Hesaplanması: Her kritere belirli bir ağırlık verilerek her mahalle için toplam skor hesaplandı.  
 En Uygun Mahallenin Belirlenmesi: Mahallelerin skorları karşılaştırılarak en uygun mahalle belirlendi.   
